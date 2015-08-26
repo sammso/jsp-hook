@@ -1,0 +1,7 @@
+<%
+	enableCommentRatings = false;
+	enableViewCountIncrement = false;
+%>
+
+
+
